@@ -15,4 +15,6 @@ Weather Flask-Sqlalchemy application that use an API-Key from openweathermap.org
                                             2)from app import db
                                             3)db.create_all()
                                             4)exit()
+
+
 6- flask run
